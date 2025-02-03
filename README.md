@@ -1,7 +1,7 @@
 
 # ForXenoFrye WIP (https://github.com/CrystalCarnivore)
 For my online bro
-![Image](https://github.com/user-attachments/assets/a8c305cd-8859-40e3-87b8-c9e84b5fdc79)
+![Image](https://github.com/user-attachments/assets/ed168d63-e282-4b8c-812c-1ea1cbb5301b)
 
 
 
